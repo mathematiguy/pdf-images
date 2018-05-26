@@ -1,4 +1,4 @@
-images/*/*.jpg
+images/
 pdfs/*.pdf
 
 # Byte-compiled / optimized / DLL files
